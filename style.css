@@ -6,11 +6,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
-/* #video{
-    width: 50%;
-    height: 50%;
-} */
+#video{
+    border: 2px solid red;
+    border-radius: 10px;
+}
 canvas{
     position: absolute;
 }
