@@ -7,3 +7,10 @@ body{
     justify-content: center;
     align-items: center;
 }
+/* #video{
+    width: 50%;
+    height: 50%;
+} */
+canvas{
+    position: absolute;
+}
